@@ -91,5 +91,19 @@
       
       "id" : 14
     }
-  ],"users":[{}]
+  ],"users":
+  [
+    {
+     "id": "b879",
+    "name": "thierry",
+    "age": 37,
+    "email": "thy@email.com"
+  },
+  {
+    "name": "fer",
+    "id": "1",
+    "age": 22,
+    "email": "fer@email.com"
+  }
+  ]
 }
