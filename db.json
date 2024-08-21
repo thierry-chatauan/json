@@ -8,13 +8,6 @@
       "imagem": "http://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
-      "id": 13,
-      "titulo": "Por amor te deixo ir",
-      "descricao": "3 mil visualizações",
-      "url": "https://www.youtube.com/embed/wvXnp1DBRbE",
-      "imagem": "http://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
-    },
-    {
       "id": 2,
       "titulo": "Desmistificando mobile - Linguagens e Frameworks",
       "descricao": "1,5 mil visualizações",
@@ -76,12 +69,6 @@
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 11
-    },
-    {
-      "titulo": "Deixei minha camera com minha filha",
-      "descricao": "1 mi de visualizacoes",
-      "url": "https://www.youtube.com/embed/_WZ-p21Rtqw?si=ZaJzUTb23PVDJ6jV",
-      "id" : 14
     }
   ],"users":
   [
