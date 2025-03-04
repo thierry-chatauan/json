@@ -84,5 +84,9 @@
     "age": 22,
     "email": "fer@email.com"
   }
+  ],"db":
+  [
+    {"anything to be shown in": "the app"},
+    {"this is just a": "test"}
   ]
 }
