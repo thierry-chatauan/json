@@ -4,14 +4,14 @@
     {
      "id": "b879",
     "name": "thierry",
-    "age": 37,
-    "email": "thy@email.com"
+    "location": "Ireland",
+    "message": "Good work!!!"
   },
   {
     "name": "fer",
     "id": "1",
-    "age": 22,
-    "email": "fer@email.com"
+    "location": "Ireland - Dublin",
+    "message": "Nice looking!!!"
   }
   ]
 }
